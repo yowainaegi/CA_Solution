@@ -1,0 +1,17 @@
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\bin\Debug\CA.exe.config
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\bin\Debug\CA.exe
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\bin\Debug\CA.pdb
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CA.csproj.AssemblyReference.cache
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CommonStyle\CommonStyle.baml
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\MainWindow.g.cs
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\App.g.cs
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CA_MarkupCompile.cache
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CA_MarkupCompile.lref
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\App.baml
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\MainWindow.baml
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CA.g.resources
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CA.Properties.Resources.resources
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CA.csproj.GenerateResource.cache
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CA.csproj.CoreCompileInputs.cache
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CA.exe
+C:\Users\sijie.dai\source\repos\CA_Solution\CA\obj\Debug\CA.pdb
